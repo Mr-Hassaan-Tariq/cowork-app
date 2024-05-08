@@ -1,0 +1,44 @@
+{
+    "userMessage": [
+        {
+            "logo": "../../Assets/Images/icon/Avatar1.png",
+            "name": "Jenny Wilson",
+            "key" : "read",
+            "defaultMessage": "Hi! How are things with the ill...",
+            "messages":[
+                "Hi there, good morning! I was wondering if it's possible to get a replacement key fob?",
+                "I accidentally broke mine this morning!"
+            ]
+        },
+        {
+            "logo": "../../Assets/Images/icon/Avatar1.png",
+            "name": "Wade Warren",
+            "key" : "unRead",
+            "defaultMessage": "Good morning! Absolutely, I...",
+            "messages":[
+                "Hi there, good morning! I was wondering if it's possible to get a replacement key fob?",
+                "I accidentally broke mine this morning!"
+            ]
+        },
+        {
+            "logo": "../../Assets/Images/icon/Avatar1.png",
+            "name": "Albert Flores",
+            "key" : "Unread",
+            "defaultMessage": "Hi! How are things with the ill...",
+            "messages":[
+                "Hi there, good morning! I was wondering if it's possible to get a replacement key fob?",
+                "I accidentally broke mine this morning!"
+            ]
+        },
+        {
+            "logo": "../../Assets/Images/icon/Avatar1.png",
+            "name": "Floyd Miles",
+            "key" : "read",
+            "defaultMessage": "Hi! How are things with the ill...",
+            "messages":[
+                "Hi there, good morning! I was wondering if it's possible to get a replacement key fob?",
+                "I accidentally broke mine this morning!"
+            ]
+        }
+    ]
+}
